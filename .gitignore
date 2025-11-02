@@ -1,0 +1,33 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+# Colcon
+.colcon/
+.colcon_install_layout
+# Python cache
+__pycache__/
+*.pyc
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+# Misc
+*.user
+*.DS_Store
+*.bak
+*.orig
+# Generated files
+*.so
+*.a
+*.o
+*.out
+*.log
+# Test results
+test_results/
